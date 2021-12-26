@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293102244528",
+    "project_id": "fir-materi1",
+    "storage_bucket": "fir-materi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293102244528:android:df627e184f62cd83b7e175",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293102244528-r1k2oa6aiil47udh2qjiqkn1g5erd29m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLwaKLmeetuU-H5ImS3tCrQJ97_C65D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293102244528-r1k2oa6aiil47udh2qjiqkn1g5erd29m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
